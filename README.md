@@ -163,7 +163,7 @@ function newGame() {
     playGame = true;
   });
 }
-
+```
 # Project 5 solution
 
 ```javascript
